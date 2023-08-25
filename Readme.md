@@ -1,0 +1,14 @@
+# Hi There 👋
+I am Pushpendra Kumar.
+- 🔭 I’m currently looking for new opportunities to learn and grow in my career.
+- 📄**B.Tech(CSE)** @ **IIT Mandi - (2020 - 2024)**
+- **[GSoC'23](https://summerofcode.withgoogle.com/programs/2023)** @ **[OpenMF](https://github.com/openMF)**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pushpendra-kumar-156a0620b/) , [Email](mailto:chaudharypushpendra.11.10.2000@gmail.com)
+----
+## Blog Posts:
+- [How I embed Apache Superset into Mifos Angular WebApp](https://medium.com/@chaudharypushpendra.11.10.2000/embedding-of-apache-superset-dashboard-in-the-mifos-initiative-angular-web-app-b9259f1f1f1b)
+----
+## My Stats: 
+![PC github stats](https://github-readme-stats.vercel.app/api?username=PC-11-00)
+
+              
