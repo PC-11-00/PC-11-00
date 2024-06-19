@@ -3,7 +3,7 @@ I am Pushpendra Kumar.
 - 🔭 I’m currently looking for new opportunities to learn and grow in my career.
 - 📄**B.Tech(CSE)** @ **IIT Mandi - (2020 - 2024)**
 - **[GSoC'24 & GSoC'23](https://summerofcode.withgoogle.com/programs/2023)** @ **[OpenMF](https://github.com/openMF)**
-- **[Resume](https://drive.google.com/file/d/1HWtTRoUaiRUueBgsnNlnVimTlBkwsGbA/view?usp=sharing)
+- **[Resume](https://drive.google.com/file/d/1HWtTRoUaiRUueBgsnNlnVimTlBkwsGbA/view?usp=sharing)**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pushpendra-kumar-156a0620b/) , [Email](mailto:chaudharypushpendra.11.10.2000@gmail.com)
 ----
 ## Blog Posts:
